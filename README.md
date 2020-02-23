@@ -17,6 +17,7 @@ Find venligst vejledning her: [LINK](https://www.notion.so/ohave/VEJLEDNING-PROD
 
 # MULIGE UDVIDELSER
 
+- FAQ i vejledning
 - Makro til print af uge oversigt med såning, transplant og turnover
 - Mere visuelt udtryk i markplan med sædskifte farver og oversigt ala JM
 - Beskyttelse af regneark, så der ikke kan laves fejl
