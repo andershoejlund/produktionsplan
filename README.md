@@ -22,3 +22,4 @@ Find venligst vejledning her: [LINK](https://www.notion.so/ohave/VEJLEDNING-PROD
 - Mere visuelt udtryk i markplan med sædskifte farver og oversigt ala JM
 - Beskyttelse af regneark, så der ikke kan laves fejl
 - Makro til planlægning af succession
+- Mulighed for at lave sæson variation
