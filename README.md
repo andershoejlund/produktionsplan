@@ -26,7 +26,7 @@ Find venligst vejledning her: [LINK](https://www.notion.so/ohave/VEJLEDNING-PROD
 
 # ENGLISH
 
-This is a fastly made and simple spreadsheet I made for production planning.
+This is a fastly made and simple spreadsheet, which I made for this year's production planning.
 
 The spreadsheet and guide is still only in Danish and not yet fully developed. Please fork on github if you want to share any advances you make on the sheet.
 
