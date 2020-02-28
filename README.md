@@ -1,4 +1,4 @@
-# PRODUKTIONSPLAN ØHAVE 2020
+# EXCEL ØHAVE 2020
 
 Find venligst vedhæftede excel ark til produktionsplanlægning fra [øhave](http://ohave.dk).
 
@@ -23,3 +23,14 @@ Find venligst vejledning her: [LINK](https://www.notion.so/ohave/VEJLEDNING-PROD
 - Beskyttelse af regneark, så der ikke kan laves fejl
 - Makro til planlægning af succession
 - Mulighed for at lave sæson variation
+
+#ENGLISH
+This is a fastly made and simple spreadsheet I made for production planning.
+
+The spreadsheet and guide is still only in Danish and not yet fully developed. Please fork on github if you want to share any advances you make on the sheet.
+
+The spreadsheet and it's formulas can be translated using this addon: [LINK](https://support.office.com/en-us/article/excel-functions-translator-f262d0c0-991c-485b-89b6-32cc8d326889)
+
+The danish guide can be seen here: [LINK](https://www.notion.so/ohave/VEJLEDNING-PRODUKTIONSPLAN-b95905b41d6c4589a8e79f6a3f30d75c)
+
+Thank you so much for your support. Anders
