@@ -11,11 +11,11 @@ Det er det simpleste regneark jeg endnu har lavet til produktionsplanlægning, d
 
 Dataen i arket er det første ikke færdigarbejdede udkast til en produktionsplan for øhave 2020.
 
-# VEJLEDNING
+## VEJLEDNING
 
 Find venligst vejledning her: [LINK](https://www.notion.so/ohave/VEJLEDNING-PRODUKTIONSPLAN-b95905b41d6c4589a8e79f6a3f30d75c)
 
-# MULIGE UDVIDELSER
+## MULIGE UDVIDELSER
 
 - FAQ i vejledning
 - Makro til print af uge oversigt med såning, transplant og turnover
@@ -24,7 +24,8 @@ Find venligst vejledning her: [LINK](https://www.notion.so/ohave/VEJLEDNING-PROD
 - Makro til planlægning af succession
 - Mulighed for at lave sæson variation
 
-#ENGLISH
+# ENGLISH
+
 This is a fastly made and simple spreadsheet I made for production planning.
 
 The spreadsheet and guide is still only in Danish and not yet fully developed. Please fork on github if you want to share any advances you make on the sheet.
