@@ -34,4 +34,6 @@ The spreadsheet and it's formulas can be translated using this addon: [LINK](htt
 
 The danish guide can be seen here: [LINK](https://www.notion.so/ohave/VEJLEDNING-PRODUKTIONSPLAN-b95905b41d6c4589a8e79f6a3f30d75c)
 
+I am aware it's not a course or a finished product. I am only sharing my work hoping it can be beneficial to someone. 
+
 Thank you so much for your support. Anders
